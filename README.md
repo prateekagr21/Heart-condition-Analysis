@@ -17,6 +17,8 @@ Uploaded the dataset, now main prediction
 
 Now following machine learning algorithms
 
+tested with logistic regression today!!
+
 
 
 following
