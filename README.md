@@ -19,6 +19,8 @@ Now following machine learning algorithms
 
 tested with logistic regression today!!
 
+Plotting the final scores
+
 
 
 following
