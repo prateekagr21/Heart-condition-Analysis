@@ -24,3 +24,7 @@ Plotting the final scores
 
 
 following
+
+will update this soon 
+ipynb file uploaded successfully
+
