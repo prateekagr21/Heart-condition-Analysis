@@ -105,6 +105,8 @@ and/or inadequate cardiac output at rest and/or during exercise._
 - Plotted Confusion Matrix
 - And at last, Classification report.
 
+---
+
 ![hf7](https://user-images.githubusercontent.com/73397927/185901780-860eb93a-aa47-4618-a6f5-bbe8bd6cf46c.jpg)
 
 
