@@ -40,7 +40,7 @@ and/or inadequate cardiac output at rest and/or during exercise._
 - Observed the data to form meaningful insights!
 <br><br>
 - Did Exploratory Data Analysis on the dataset.
-- Used correlations to form a heatmap.
+- Used correlations to form a heatmap!!
 
 # For Visualizations, i used :
 - Visualizations were made by using Matplotlib and Seaborn Libraries..!!
